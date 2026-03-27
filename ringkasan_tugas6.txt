@@ -1,0 +1,32 @@
+RINGKASAN
+Jumlah Data   : 12
+Rata-rata     : 74.67
+Median        : 76.00
+Std Deviasi   : 14.01
+Nilai Minimum : 50
+Nilai Maximum : 95
+RINGKASAN DATAFRAME
+Jumlah Baris        : 12
+Jumlah LULUS        : 8
+Jumlah TIDAK LULUS  : 4
+Persentase Lulus    : 66.7%
+RINGKASAN OOP – GradeBook
+Jumlah Data       : 12
+Rata-rata Nilai   : 74.67
+Persentase Lulus  : 66.67%
+Persentase Tidak  : 33.33%
+
+Detail per Mahasiswa:
+nama     nim  nilai      status
+   A 2021001     85       LULUS
+   B 2021002     72       LULUS
+   C 2021003     91       LULUS
+   D 2021004     60 TIDAK LULUS
+   E 2021005     78       LULUS
+   F 2021006     55 TIDAK LULUS
+   G 2021007     88       LULUS
+   H 2021008     74       LULUS
+   I 2021009     65 TIDAK LULUS
+   J 2021010     95       LULUS
+   K 2021011     50 TIDAK LULUS
+   L 2021012     83       LULUS
